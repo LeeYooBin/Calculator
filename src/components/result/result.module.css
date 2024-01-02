@@ -1,0 +1,14 @@
+.content {
+    width: 80%;
+    height: auto;
+    display: flex;
+    justify-content: end;
+}
+
+.text {
+    font-size: 1rem;
+    color: #fff;
+    font-weight: 600;
+    align-self: flex-end;
+    min-height: 1.5rem;
+}
